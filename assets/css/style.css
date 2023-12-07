@@ -120,7 +120,7 @@ header {
     content: "Firgun Corp";
   }
   21%,40%{
-    content: "L'excellence du freelance";
+    content: "Le Freelance";
   }
   41%,60%{
     content: "Gestion des réseaux";
@@ -218,7 +218,7 @@ header {
 /* Projects Section Styles */
 #carrousel {
   width: 100%;
-  max-width: 1550px;
+  max-width: 100%;
   max-height: 100vh;
   background-color: #F0ECE5;
   margin: 0 auto;
